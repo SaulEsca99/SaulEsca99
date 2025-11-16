@@ -1,307 +1,312 @@
-<h1 align="center">Hola 👋, soy Saúl Escamilla Lazcano <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ingenier%C3%ADa+en+IA;Instituto+Polit%C3%A9cnico+Nacional;Especialista+en+Machine+Learning;Desarrollador+Full+Stack;Apasionado+por+la+IA+y+el+NLP;Siempre+aprendiendo+cosas+nuevas"></a>
-</p>
+<div align="center">
+
+# 👨‍💻 Saúl Escamilla Lazcano
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Estudiante+de+Ingenier%C3%ADa+en+IA+%7C+IPN;Desarrollador+Full+Stack+en+Formaci%C3%B3n;Entusiasta+de+Machine+Learning+%26+NLP;Aprendiendo+y+Construyendo+Cada+D%C3%ADa" alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=SaulEsca99&color=00D9FF&style=for-the-badge&label=VISITAS)](https://github.com/SaulEsca99)
+[![GitHub Followers](https://img.shields.io/github/followers/SaulEsca99?style=for-the-badge&color=00D9FF&labelColor=1a1a1a)](https://github.com/SaulEsca99?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/SaulEsca99?style=for-the-badge&color=00D9FF&labelColor=1a1a1a)](https://github.com/SaulEsca99?tab=repositories)
+
+</div>
+
+---
+
+## 🚀 Sobre Mí
+
+```python
+class SaulEscamillaLazcano:
+    def __init__(self):
+        self.nombre = "Saúl Escamilla Lazcano"
+        self.ubicacion = "Ciudad de México, México"
+        self.educacion = "Ingeniería en Inteligencia Artificial"
+        self.universidad = "Instituto Politécnico Nacional - ESCOM"
+        self.semestre = "5to Semestre"
+        self.idiomas = ["Español (Nativo)", "Inglés (B1/C1)"]
+        
+    def intereses_profesionales(self):
+        return {
+            "🎯 Áreas de Interés": [
+                "Desarrollo de Software",
+                "Inteligencia Artificial & Machine Learning",
+                "Desarrollo Web Full Stack",
+                "Data Science & Analytics",
+                "Computer Vision & NLP"
+            ],
+            "💼 Buscando Oportunidades en": [
+                "Becario en Desarrollo de Software",
+                "Becario en IA/ML",
+                "Desarrollador Web Junior",
+                "Becario en Data Science",
+                "Proyectos de Innovación Tecnológica"
+            ]
+        }
+    
+    def filosofia(self):
+        return "Apasionado por aprender constantemente y aplicar tecnología \
+                para resolver problemas reales. Cada proyecto es una \
+                oportunidad para crecer y contribuir."
+```
+
+<div align="center">
+
+### 💡 **Mi Enfoque**
+
+**Me apasiona aprender de todo** - Desde algoritmos de Machine Learning hasta diseño de interfaces web, desde bases de datos hasta arquitecturas cloud. Creo firmemente que la mejor manera de dominar la tecnología es experimentando, construyendo y colaborando en proyectos reales.
+
+**Estoy en constante aprendizaje** de nuevas tecnologías, frameworks y mejores prácticas de desarrollo. Mi objetivo es convertirme en un desarrollador versátil capaz de aportar valor en diferentes áreas del desarrollo de software.
+
+</div>
+
+---
 
 <br>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=SaulEsca99&label=Visitas+al+perfil&color=0047AB&style=plastic?" alt="SaulEsca99" height=25px, width=180px/> 
-</p>
+## 🌐 Conéctate Conmigo
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture> Sobre mí
+<div align="center">
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250px></picture>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saul-escamilla)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaulEsca99)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saul.escamilla@ejemplo.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
-<br>
+</div>
 
-- 🎓 Estudiante de `5to Semestre` en [Ingeniería en Inteligencia Artificial](https://www.escom.ipn.mx/) en el [Instituto Politécnico Nacional](https://www.ipn.mx/)-Escuela Superior de Cómputo (ESCOM).
-- 🤖 Apasionado por `Machine Learning`, `Deep Learning` y `Procesamiento de Lenguaje Natural`
-- 💻 Desarrollador Full Stack con experiencia en `Python`, `JavaScript` y `Java`
-- 🔬 Trabajando en proyectos de `Computer Vision` y `Algoritmos Bioinspirados`
-- 📊 Especializado en `Análisis de Datos` y `Visualización` con Python
-- 🌱 Actualmente aprendiendo técnicas avanzadas de `NLP` y `Transformers`
-- 🎯 Objetivo: Contribuir al avance de la IA y sus aplicaciones prácticas
-- 🌍 Idiomas: `Español` (Nativo), `Inglés` (B1/C1)
+---
 
 <br>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Conéctate conmigo
+## 💻 Stack Tecnológico
 
-<p align="center">
-	<a href="https://github.com/SaulEsca99"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/saul-escalante"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="mailto:saul.escalante@ejemplo.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</p>
+<div align="center">
 
-## 🛠️ Stack Tecnológico
+### 👨‍💻 Lenguajes de Programación
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=50px> </picture> Lenguajes de Programación
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<p align="center"> 
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.php.net" target="_blank"> 
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
-  </a>
-</p>
+### 🎨 Frontend & UI/UX
 
-### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=50px> </picture> Desarrollo Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://reactjs.org/" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
-  </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-</p>
+### 🤖 Machine Learning & IA
 
-### 🤖 Machine Learning & Inteligencia Artificial
-
-<p align="center">
-  &emsp;
-    <a href="https://scikit-learn.org/" target="_blank">
-      <img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white">
-    </a>
-  &emsp;
-    <a href="https://www.tensorflow.org" target="_blank">
-      <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white">
-    </a>
-  &emsp;
-    <a href="https://pytorch.org/" target="_blank">
-      <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white">
-    </a>
-  &emsp;
-    <a href="https://keras.io/" target="_blank">
-      <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white">
-    </a>
-  &emsp;
-    <a href="https://opencv.org/" target="_blank">
-      <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white">
-    </a>
-</p>
-
-### 📊 Análisis de Datos & Visualización
-
-<p align="center">
-  &emsp;
-    <a href="https://pandas.pydata.org/" target="_blank">
-      <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white">
-    </a>
-  &emsp;
-    <a href="https://numpy.org/" target="_blank">
-      <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white">
-    </a>
-  &emsp;
-    <a href="https://matplotlib.org/" target="_blank">
-      <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black">
-    </a>
-  &emsp;
-    <a href="https://seaborn.pydata.org/" target="_blank">
-      <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-%2318BDBB.svg?style=plastic&logo=python&logoColor=white">
-    </a>
-  &emsp;
-    <a href="https://www.tableau.com/" target="_blank">
-      <img alt="Tableau" src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=plastic&logo=Tableau&logoColor=white">
-    </a>
-</p>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🗄️ Bases de Datos
 
-<p align="center">
-  &emsp;
-    <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white" alt="MySQL"/></a>
-  &emsp;
-    <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
-  &emsp;
-    <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-%23003545.svg?style=plastic&logo=mariadb&logoColor=white" alt="MariaDB"/></a>
-  &emsp;
-    <a href="https://www.oracle.com/database/"><img src="https://img.shields.io/badge/Oracle-%23F80000.svg?style=plastic&logo=oracle&logoColor=white" alt="Oracle"/></a>
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🛠️ Herramientas de Desarrollo
+### 🛠️ Herramientas & Tecnologías
 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=Jupyter&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/NetworkX-%23FF6F00.svg?style=plastic&logo=python&logoColor=white" alt="NetworkX"/></a>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 
-### 💻 IDEs & Editores
+### 🤖 IA Generativa & Asistentes
 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-143?style=plastic&logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
-  &emsp;
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=Jupyter&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=plastic&logo=google-colab&logoColor=white"></a>
-</p>
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
 
-### 🎯 Áreas de Especialización
+### 💼 Productividad & Office
 
-<p align="center">
-  &emsp;
-    <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white">
-  &emsp;
-    <img alt="NLP" src="https://img.shields.io/badge/NLP-%234285F4.svg?style=plastic&logo=google&logoColor=white">
-  &emsp;
-    <img alt="Computer Vision" src="https://img.shields.io/badge/Computer%20Vision-%235C3EE8.svg?style=plastic&logo=opencv&logoColor=white">
-  &emsp;
-    <img alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=plastic&logo=pytorch&logoColor=white">
-  &emsp;
-    <img alt="Algoritmos Genéticos" src="https://img.shields.io/badge/Algoritmos%20Gen%C3%A9ticos-%2300C853.svg?style=plastic&logo=dna&logoColor=white">
-  &emsp;
-    <img alt="Data Analysis" src="https://img.shields.io/badge/An%C3%A1lisis%20de%20Datos-%23150458.svg?style=plastic&logo=pandas&logoColor=white">
-</p>
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### 🖥️ IDEs & Editores
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+
+</div>
+
+---
+
+<br>
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaulEsca99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SaulEsca99&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaulEsca99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
+
+</div>
+
+---
+
+<br>
+
+## 🏆 Proyectos Destacados
+
+<div align="center">
+
+[![Sentiment Analysis App](https://github-readme-stats.vercel.app/api/pin/?username=SaulEsca99&repo=sentiment-analysis-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/SaulEsca99/sentiment-analysis-app)
+[![Vectorización de Documentos](https://github-readme-stats.vercel.app/api/pin/?username=SaulEsca99&repo=Vectorizacion-de-documentos-&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/SaulEsca99/Vectorizacion-de-documentos-)
+
+[![Algoritmo Genético TSP-TW](https://github-readme-stats.vercel.app/api/pin/?username=SaulEsca99&repo=Algoritmo-Genetico-Hibrido-TSP-TW&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/SaulEsca99/Algoritmo-Genetico-Hibrido-TSP-TW)
+[![PhotoEscom - Visión Artificial](https://github-readme-stats.vercel.app/api/pin/?username=SaulEsca99&repo=PhotoEscom-Artificial-Vision&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/SaulEsca99/PhotoEscom-Artificial-Vision)
+
+[![Agente Explorador Pygame](https://github-readme-stats.vercel.app/api/pin/?username=SaulEsca99&repo=Agente-Explorador-Pygame&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/SaulEsca99/Agente-Explorador-Pygame)
+[![Algoritmos BFS y DFS](https://github-readme-stats.vercel.app/api/pin/?username=SaulEsca99&repo=Algoritmos-de-B-squeda-BFS-y-DFS-&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)](https://github.com/SaulEsca99/Algoritmos-de-B-squeda-BFS-y-DFS-)
+
+</div>
+
+---
+
+<br>
+
+## 🎯 Áreas de Desarrollo
+
+<div align="center">
+
+| **Machine Learning** | **Desarrollo Web** | **Data Science** |
+|:---:|:---:|:---:|
+| 🧠 Modelos de Clasificación | 🌐 Frontend con React | 📊 Análisis Exploratorio |
+| 🔍 Procesamiento de Lenguaje Natural | 💾 Backend con Python/Java | 📈 Visualización de Datos |
+| 👁️ Computer Vision | 🎨 UI/UX Design | 🧪 Limpieza de Datos |
+| 🧬 Algoritmos Genéticos | 📱 Diseño Responsivo | 🔬 Feature Engineering |
+
+</div>
+
+---
+
+<br>
+
+## 📚 Actualmente Aprendiendo
+
+```javascript
+const currentLearning = {
+    deepLearning: ["Transformers", "BERT", "GPT Architecture"],
+    webDevelopment: ["Next.js", "TypeScript", "Node.js"],
+    dataEngineering: ["Apache Spark", "Data Pipelines", "ETL"],
+    cloud: ["AWS", "Google Cloud Platform", "Serverless"],
+    devOps: ["CI/CD", "Kubernetes", "Microservices"]
+};
+
+// Siempre buscando expandir mis conocimientos 🚀
+```
+
+---
+
+<br>
+
+## 💼 Por Qué Elegirme Como Becario
+
+<div align="center">
+
+| 🎓 **Formación Sólida** | 💪 **Habilidades Técnicas** | 🚀 **Actitud Proactiva** |
+|:---|:---|:---|
+| Estudiante de Ingeniería en IA en el IPN | Experiencia práctica en proyectos reales | Apasionado por aprender nuevas tecnologías |
+| Base teórica en algoritmos y matemáticas | Stack completo: Frontend, Backend, ML, Data | Autodidacta y orientado a resultados |
+| Conocimientos en múltiples paradigmas | Uso de herramientas modernas de desarrollo | Trabajo en equipo y comunicación efectiva |
+
+</div>
+
+<div align="center">
+
+### 🌟 **Mi Propuesta de Valor**
+
+Combino **conocimientos teóricos sólidos** con **experiencia práctica** en desarrollo de software e inteligencia artificial. No solo escribo código que funciona, sino que me esfuerzo por entender los principios subyacentes y las mejores prácticas de la industria.
+
+Me considero una **esponja de conocimiento** - cada proyecto, cada error y cada éxito son oportunidades de aprendizaje. Busco una posición donde pueda **contribuir, crecer y hacer la diferencia**.
+
+</div>
+
+---
+
+<br>
+
+## 📫 ¿Hablamos?
+
+<div align="center">
+
+### Estoy abierto a oportunidades de becario en:
+**Desarrollo de Software • Inteligencia Artificial • Desarrollo Web • Data Science**
+
+Si buscas un becario comprometido, apasionado por la tecnología y con ganas de aprender,
+**¡me encantaría ser parte de tu equipo!**
+
+[![Email](https://img.shields.io/badge/Contacta_conmigo-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saul.escamilla@ejemplo.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=El%20mejor%20momento%20para%20plantar%20un%20árbol%20fue%20hace%2020%20años.%20El%20segundo%20mejor%20momento%20es%20ahora.&author=Proverbio%20Chino" />
+
+<br><br>
+
+### 📈 Profile Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaulEsca99&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true)
+
+<br>
+
+### ⚡ Fun Fact
+
+```javascript
+while (alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}
+```
 
 <br>
 
 ---
 
-<p align="center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> 
-		<img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-	</a>
-</p>
+<sub>💙 Hecho con dedicación y café por Saúl Escamilla Lazcano</sub>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width=50px> </picture> Estadísticas de GitHub
+<br>
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSaulEsca99&label=VISITORS&labelColor=%230D1117&countColor=%2300D9FF&style=flat)
 
-----	
-
-<p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaulEsca99&theme=tokyonight_duo" alt="SaulEsca99" />
-</p>
-
-</details>
-  
-<details><summary><h3>💻 Estadísticas del Perfil</h3></summary>
-
-----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="SaulEsca99's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaulEsca99&show_icons=true&count_private=true&locale=es&theme=tokyonight&layout=compact" height="230px"/>
-	</a>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaulEsca99&langs_count=10&show_icons=true&locale=es&theme=tokyonight" alt="SaulEsca99" height="230px"/>
-<br/>
-
-  <b>Nota:</b> Los lenguajes principales son solo una métrica de los lenguajes que componen mi código público y no reflejan experiencia o nivel de habilidad.
-</p>
-
-</details>
-
-<details><summary><h3>⚡ Actividad Reciente en GitHub</h3></summary>
-
-----
-	
-[![SaulEsca99's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaulEsca99&theme=tokyo-night)](https://github.com/SaulEsca99/github-readme-activity-graph)
-
-</details>
-
-<details><summary><h3> 🏆 Trofeos del Perfil </h3></summary>
-
-----
-	
-<p align="center">
-	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img src="https://github-profile-trophy.vercel.app/?username=SaulEsca99&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="SaulEsca99" />
-	</a>
-</p>
-	
-</details>
-
-<details><summary><h3> 📂 Repositorios Destacados </h3></summary>
-
-----
-	
-<div>
-  <p align="center">
-	<a href="https://github.com/SaulEsca99/sentiment-analysis-app">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaulEsca99&repo=sentiment-analysis-app&theme=tokyonight" alt="Sentiment Analysis" />
-    	</a>
-	<a href="https://github.com/SaulEsca99/Vectorizacion-de-documentos-">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaulEsca99&repo=Vectorizacion-de-documentos-&theme=tokyonight" alt="Vectorización" />
-    	</a>
-    	<a href="https://github.com/SaulEsca99/Algoritmo-Genetico-Hibrido-TSP-TW">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaulEsca99&repo=Algoritmo-Genetico-Hibrido-TSP-TW&theme=tokyonight" alt="Algoritmo Genético" />
-    	</a>
-    	<a href="https://github.com/SaulEsca99/PhotoEscom-Artificial-Vision">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaulEsca99&repo=PhotoEscom-Artificial-Vision&theme=tokyonight" alt="Computer Vision" />
-    	</a>
-    	<a href="https://github.com/SaulEsca99/Agente-Explorador-Pygame">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaulEsca99&repo=Agente-Explorador-Pygame&theme=tokyonight" alt="Agente Explorador" />
-    	</a>
-	<a href="https://github.com/SaulEsca99/Algoritmos-de-B-squeda-BFS-y-DFS-">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaulEsca99&repo=Algoritmos-de-B-squeda-BFS-y-DFS-&theme=tokyonight" alt="BFS y DFS" />
-    	</a>
-  </p>
-</div>
-
-</details>
-
-<br><br>
-
-## 🐍 Mis Contribuciones
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
----
-
-<div align="center">
-  <h3>💭 Frase del Día</h3>
-  <p><i>"La inteligencia artificial no se trata de reemplazar a los humanos, sino de aumentar nuestras capacidades."</i></p>
-</div>
-
-<div align="center">
-  
-  ### Gracias por visitar mi perfil! 🚀
-  
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSaulEsca99&label=VISITANTES&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
-  
 </div>
