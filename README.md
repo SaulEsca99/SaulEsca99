@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Saúl Escalante <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola 👋, soy Saúl Escamilla Lazcano <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ingenier%C3%ADa+en+IA;Instituto+Polit%C3%A9cnico+Nacional;Especialista+en+Machine+Learning;Desarrollador+Full+Stack;Apasionado+por+la+IA+y+el+NLP;Siempre+aprendiendo+cosas+nuevas"></a>
 </p>
@@ -15,8 +15,7 @@
 
 <br>
 
-- 🎓 Estudiante de `5to Semestre` en [Ingeniería en Inteligencia Artificial](https://www.escom.ipn.mx/) en el [Instituto Politécnico Nacional](https://www.ipn.mx/)
-- 🏫 Grupo: `5BV1` en la Escuela Superior de Cómputo (ESCOM)
+- 🎓 Estudiante de `5to Semestre` en [Ingeniería en Inteligencia Artificial](https://www.escom.ipn.mx/) en el [Instituto Politécnico Nacional](https://www.ipn.mx/)-Escuela Superior de Cómputo (ESCOM).
 - 🤖 Apasionado por `Machine Learning`, `Deep Learning` y `Procesamiento de Lenguaje Natural`
 - 💻 Desarrollador Full Stack con experiencia en `Python`, `JavaScript` y `Java`
 - 🔬 Trabajando en proyectos de `Computer Vision` y `Algoritmos Bioinspirados`
