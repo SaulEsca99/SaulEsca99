@@ -38,7 +38,43 @@ saul = {
 
 ### 💡 Lo que me mueve
 
-Me encanta **aprender de todo** y aplicar tecnología para resolver problemas reales. Cada línea de código es una oportunidad para crear algo mejor, y cada proyecto es una aventura de aprendizaje. Mi objetivo es combinar la teoría con la práctica para construir soluciones que impacten positivamente.
+Desde que escribí mi primera línea de código, descubrí que la programación es mucho más que sintaxis y algoritmos: es una forma de **transformar ideas en realidad**. Me apasiona profundamente la **Inteligencia Artificial** porque representa el futuro de cómo interactuamos con la tecnología y resolvemos problemas complejos.
+
+Cada proyecto es una **aventura de aprendizaje** donde puedo experimentar, fallar, aprender y mejorar. No me conformo con que algo "simplemente funcione" - busco entender el **por qué** detrás de cada solución, explorar diferentes enfoques y aplicar las mejores prácticas.
+
+Lo que realmente me motiva es saber que el código que escribo hoy puede **impactar positivamente** la vida de las personas mañana. Ya sea optimizando un proceso, analizando datos para tomar mejores decisiones, o creando herramientas que faciliten el trabajo de otros, encuentro satisfacción en contribuir con soluciones tecnológicas significativas.
+
+Mi filosofía: **nunca dejar de aprender**. La tecnología evoluciona constantemente, y yo evoluciono con ella.
+
+---
+
+## 🎯 Habilidades Profesionales
+
+Más allá del código, estas son las cualidades que definen mi forma de trabajar:
+
+<div align="center">
+
+| 👥 **Trabajo en Equipo** | 🎯 **Liderazgo & Iniciativa** | 💪 **Compromiso** |
+|:---|:---|:---|
+| Creo firmemente que los mejores proyectos surgen de la colaboración | Me gusta tomar la iniciativa y proponer soluciones creativas | Cuando me comprometo con un proyecto, doy el 100% |
+| Comunicación clara y efectiva con compañeros y stakeholders | Capacidad para coordinar equipos y distribuir tareas eficientemente | Cumplo con deadlines y mantengo la calidad del trabajo |
+| Escucho activamente y valoro las ideas de todos | Motivador natural que impulsa al equipo hacia los objetivos | Responsable y confiable en cada tarea asignada |
+
+</div>
+
+### 🚀 Mi Enfoque de Desarrollo
+
+```javascript
+const miFilosofia = {
+    aprendizajeContinuo: "Siempre hay algo nuevo que aprender",
+    resolucionDeProblemas: "Busco entender la raíz antes de programar la solución",
+    calidad: "El código limpio y bien documentado es tan importante como que funcione",
+    colaboracion: "Compartir conocimiento hace crecer a todo el equipo",
+    adaptabilidad: "La tecnología cambia rápido, y yo me adapto más rápido"
+};
+```
+
+**📚 Expandiendo Conocimientos**: Actualmente explorando arquitecturas de Deep Learning, desarrollo cloud, y mejores prácticas de DevOps para convertirme en un desarrollador más completo y versátil.
 
 ---
 
@@ -130,9 +166,11 @@ Me encanta **aprender de todo** y aplicar tecnología para resolver problemas re
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-1C1C1C?style=for-the-badge&logo=ai&logoColor=white)
 
 </details>
 
