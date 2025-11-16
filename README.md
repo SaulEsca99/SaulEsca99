@@ -1,8 +1,10 @@
 <div align="center">
 
-# 🌟 Saúl Escamilla Lazcano
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&height=70&lines=Sa%C3%BAl+Escamilla+Lazcano" alt="Saúl Escamilla Lazcano" />
+</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Estudiante+de+Ingenier%C3%ADa+en+IA+%7C+IPN;Desarrollador+Full+Stack;Machine+Learning+%26+NLP+Enthusiast;Construyendo+el+futuro+con+IA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=600&lines=Estudiante+de+Ingenier%C3%ADa+en+IA+%7C+IPN;Desarrollador+Full+Stack;Machine+Learning+%26+NLP+Enthusiast;Construyendo+el+futuro+con+IA" alt="Typing SVG" />
 
 <br>
 
@@ -49,7 +51,7 @@ Me encanta **aprender de todo** y aplicar tecnología para resolver problemas re
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1BXuJRZwYu/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/MKWAYE7VCTCCC1)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaulEsca99)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saul.escamilla@ejemplo.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saulescamillawm@gmail.com)
 
 </div>
 
@@ -271,9 +273,23 @@ const learning: CurrentFocus = {
 
 <div align="center">
 
-### 💬 Cita Favorita
+### 💬 Cita del Día
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=La%20inteligencia%20artificial%20es%20el%20nuevo%20electricity.&author=Andrew%20Ng" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=&author=" />
+
+</div>
+
+---
+
+## 📬 Contacto
+
+<div align="center">
+
+¿Tienes alguna pregunta, idea o proyecto en mente? **¡Me encantaría saber de ti!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saúlel)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saulescamillawm@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/MKWAYE7VCTCCC1)
 
 </div>
 
